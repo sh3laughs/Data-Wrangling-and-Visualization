@@ -1,5 +1,5 @@
 # DSO104 - Data Wrangling and Visualization
-  # Lesson 1 - Manipulating Columns and Rows
+  # Lesson 1 - Manipulating Columns and Rows 
 
 # Page 13 - [Practice] Hands-On
   # load libraries
