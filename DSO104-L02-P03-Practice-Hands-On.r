@@ -4,7 +4,7 @@
 
 # Here is a dataset on household energy consumption in the U.S:
   # https://repo.exeterlms.com/documents/V2/DataScience/Data-Wrang-Visual/energy.zip
-# Give data transformations a shot on your own in R!
+# Give data transformations a shot on your own in R! 
 
 # load libraries
 library(dplyr)
