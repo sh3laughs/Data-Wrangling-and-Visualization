@@ -1,5 +1,5 @@
 # DSO104 - Data Wrangling and Visualization
-  # Lesson 1 - Manipulating Columns and Rows
+  # Lesson 2 - Data Transformations
 
 # Page 2 - Data Transposition in R
 
