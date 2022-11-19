@@ -1,5 +1,5 @@
 # DSO104 - Data Wrangling and Visualization
-  # Lesson 1 - Manipulating Columns and Rows 
+  # Lesson 2 - Data Transformations
 
 # Page 12 - Practice Hands-On
   # For this data exercise, you will be putting your data combination 
